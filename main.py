@@ -1,4 +1,3 @@
-
 from pymongo import MongoClient
 
 # This is a sample Python script.
@@ -15,6 +14,5 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    db_connect.connect()
-
+    print('hello')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
